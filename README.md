@@ -2,7 +2,7 @@
 **nathan5280/nathan5280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## My current Gen3 technology stack.
+## My Gen3 Technology Stack.
 I hadn't realized how much Python 2 was holding us back until I started to dig into some of the newer 
 packages only for Python 3.  It was right around Python 3.5/3.6 when we got *type hinting*, 
 *dataclasses*, and *f-strings* that there was an inflection in innovation.  Maintaining code bases for both 
