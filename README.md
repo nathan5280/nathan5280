@@ -8,7 +8,7 @@ packages only for Python 3.  It was right around Python 3.5/3.6 when we got *typ
 *dataclasses*, and *f-strings* that there was an inflection in innovation.  Maintaining code bases for both 
 2.7 & 3.7 basically prevented us from leveraging these features.  
 
-I call these packages "Gen3".  Here is my new tool stack.
+I call these packages **Gen3**.  Here is my new tool stack.
 
 |  | Current Package | Role | Replaced Package(s) | Rational / Best Features |
 | :---: | :---            | :--- | :---                | :---     |
