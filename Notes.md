@@ -34,3 +34,6 @@ Here are some ideas to get you started:
     
 Driving business value with data, especially when it doesn't belong in a 
 Jupyter Notebook on your Laptop.
+
+Automating and deploying data applications when they don't 
+belong on your notebook or in Jupyter Lab anymore!

@@ -2,13 +2,13 @@
 **nathan5280/nathan5280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## My current gen-3 technology stack.
+## My current Gen3 technology stack.
 I hadn't realized how much Python 2 was holding us back until I started to dig into some of the newer 
-packages that only focused on Python 3.  I think it was right around Python 3.5/3.6 when we got *type hinting*, 
-*dataclasses*, and *f-strings* that there as an inflection in innovation.  Maintaining code bases for both 2.7 & 3.7 basically 
-prevented us from leveraging these features.  
+packages only for Python 3.  It was right around Python 3.5/3.6 when we got *type hinting*, 
+*dataclasses*, and *f-strings* that there was an inflection in innovation.  Maintaining code bases for both 
+2.7 & 3.7 basically prevented us from leveraging these features.  
 
-I've recently replaced a number of my core packages with some of these new gen-3 package.  Here is my new tool stack.
+I call these packages "Gen3".  Here is my new tool stack.
 
 |  | Current Package | Role | Replaced Package(s) | Rational / Best Features |
 | :---: | :---            | :--- | :---                | :---     |
