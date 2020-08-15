@@ -31,3 +31,6 @@ Here are some ideas to get you started:
     - Curiosity
     - Aliasing
     - Knowing when to seek help
+    
+Driving business value with data, especially when it doesn't belong in a 
+Jupyter Notebook on your Laptop.
