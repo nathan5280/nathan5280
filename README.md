@@ -14,3 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Python Developer
+    - Poetry
+    - Pydantic
+- Machine Learning Engine
+    - When it doesn't fit on your notebook anymore
+    - When you want to deliver value to the business
+- API & Backend Service Development
+    - FastAPI
+    - Journal / Logging
+- Testing
+    - It's not just coverage
+    - Gamify the process
+- DevOps
+    - Docker - Glad to be rid of the stacks of CD's
+    - GCP
+- Business Communication & Requirements Gathering
+    - Listening skills to understand what they are really asking for
+- Problem solving
+    - Curiosity
+    - Aliasing
+    - Knowing when to seek help
+    
+## My current gen-3 technology stack.
+I hadn't realized how much Python 2 was holding us back until I started to dig into some of the newer 
+packages that only focused on Python 3.  I think it was right around Python 3.5/3.6 when we got *type hinting*, 
+*dataclasses*, and *f-strings* that there as an inflection in innovation.  Maintaining code bases for both 2.7 & 3.7 basically 
+prevented us from leveraging these features.  
+
+I've recently replaced a number of my core packages with some of these new gen-3 package.  Here is my new tool stack.
+
+|  | Current Package | Role | Replaced Package(s) | Rational |
+| :---: | :---            | :--- | :---                | :---     |
+| ![poetry](images/poetry-logo.svg) | [Poetry](https://python-poetry.org/) | Project package management and publishing | <ul><li>PipEnv</li><li>Flit</li></ul> | <ul><li>Package management: Resolves and installs complex data science stacks faster.</li><li>Build and Publish Packages: Same tool, same *pyproject.toml* to manage the project packages and publish the package.</li></ul> |
