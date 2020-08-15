@@ -47,5 +47,5 @@ I've recently replaced a number of my core packages with some of these new gen-3
 
 |  | Current Package | Role | Replaced Package(s) | Rational |
 | :---: | :---            | :--- | :---                | :---     |
-| <img src="images/poetry-logo.png" width="48"/> | [Poetry](https://python-poetry.org/) | Project package management and publishing | <ul><li>PipEnv</li><li>Flit</li></ul> | <ul><li>Package management: Resolves and installs complex data science stacks faster.</li><li>Build and Publish Packages: Same tool, same *pyproject.toml* to manage the project packages and publish the package.</li></ul> |
+| <img src="images/poetry-logo.png" width="256"/> | [Poetry](https://python-poetry.org/) | Project package management and publishing | <ul><li>PipEnv</li><li>Flit</li></ul> | <ul><li>Package management: Resolves and installs complex data science stacks faster.</li><li>Build and Publish Packages: Same tool, same *pyproject.toml* to manage the project packages and publish the package.</li></ul> |
 
